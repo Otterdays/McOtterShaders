@@ -6,4 +6,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- Project initialization with documentation structure.
+- Project initialization with documentation structure and architecture definition.
+- Git repository initialization with standard .gitignore.

@@ -1,15 +1,15 @@
 ## Active Tasks
-- [x] Research core Minecraft shader pack structure (OptiFine/Iris)
+- [x] Initial documentation and architecture setup
+- [x] Git initialization and first commit
 - [ ] Define shader pipeline (G-buffers, composite, final)
-- [x] Create initial file structure
 - [ ] Document buffer layout in ARCHITECTURE.md
 
 ## Blocked Items
 - [None]
 
 ## Recent Context (last 5 actions)
-1. Created DOCS/ folder
-2. Initialized all standard documentation files
-3. Defined initial G-buffer strategy in My_Thoughts.md
-4. Updated SCRATCHPAD.md with status
-5. Starting buffer layout documentation in ARCHITECTURE.md
+1. Created .gitignore with standard OS/IDE filters
+2. Initialized git repository
+3. Staged and committed initial documentation and project structure
+4. Updated My_Thoughts.md with Git initialization decision
+5. Updating status across all documentation files

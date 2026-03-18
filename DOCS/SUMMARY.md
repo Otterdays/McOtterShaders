@@ -4,6 +4,7 @@
 
 ## Key Milestones
 - [x] Documentation structure initialization
+- [x] Git repository initialization
 - [ ] Basic shader pipeline definition
 - [ ] MVP shader pack (basic color adjustment/lighting)
 
