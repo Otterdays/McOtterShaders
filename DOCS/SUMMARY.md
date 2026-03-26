@@ -17,8 +17,10 @@
 - **Domain reference:** [reference/README.md](reference/README.md) (index) and [reference/advanced_shaderpack_reference.md](reference/advanced_shaderpack_reference.md) (broad OptiFine/Iris catalog).
 - **Process:** [CHANGELOG.md](CHANGELOG.md), [SCRATCHPAD.md](SCRATCHPAD.md), [SBOM.md](SBOM.md), [My_Thoughts.md](My_Thoughts.md).
 - **Conventions:** [STYLE_GUIDE.md](STYLE_GUIDE.md).
+- **Planning:** [ROADMAP.md](ROADMAP.md) (skeleton, properties, tooling, verification, CI — task lists with difficulty).
 
 ## Quick Links
+- [Roadmap](ROADMAP.md)
 - [Architecture](ARCHITECTURE.md)
 - [Style guide](STYLE_GUIDE.md)
 - [Reference index](reference/README.md)

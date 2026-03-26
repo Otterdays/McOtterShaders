@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+- `DOCS/ROADMAP.md`: phased roadmap (prerequisites, skeleton, properties, tooling, verification, CI, release, backlog) with **E/M/H/X** difficulty markers and placeholder subsections for additions; linked from `DOCS/SUMMARY.md`, `README.md`, and `DOCS/STYLE_GUIDE.md`.
 - Preservation-rule headers across `DOCS/` markdown files.
 - `DOCS/reference/README.md` (reference index, compatibility placeholders, links to project truth).
 - `DOCS/STYLE_GUIDE.md` (GLSL conventions, trace tags, pointers to ARCHITECTURE).

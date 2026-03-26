@@ -15,9 +15,9 @@
 - Verify Iris/OptiFine uniform and program lists against the chosen Minecraft major when MVP targets are set.
 
 ## Recent Context (last 5 actions)
-1. Prepended preservation-rule headers across DOCS
-2. Added DOCS/reference/README.md and DOCS/STYLE_GUIDE.md
-3. Resolved colortex3 narrative: ARCHITECTURE authoritative; My_Thoughts amended
-4. Updated SUMMARY documentation map, README Documentation section, CHANGELOG
+1. Added DOCS/ROADMAP.md (skeleton, properties, tooling, verification, CI, backlog; difficulty E/M/H/X)
+2. Linked ROADMAP from SUMMARY and README Documentation
+3. Appended CHANGELOG [Unreleased] for roadmap deliverable
+4. Prepended preservation-rule headers across DOCS
 5. Committed docs sustainability pass (reference tracked, preservation headers, STYLE_GUIDE)
 

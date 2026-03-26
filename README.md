@@ -11,6 +11,7 @@ A Minecraft shader pack built for modern rendering standards, focusing on high v
 - **[DOCS/SUMMARY.md](DOCS/SUMMARY.md)** — project status, documentation map, and quick links.
 - **[DOCS/ARCHITECTURE.md](DOCS/ARCHITECTURE.md)** — G-buffer layout and rendering stages for this pack.
 - **[DOCS/reference/README.md](DOCS/reference/README.md)** — index of generic OptiFine/Iris reference material (not the pack’s binding buffer contract).
+- **[DOCS/ROADMAP.md](DOCS/ROADMAP.md)** — phased plan: shader skeleton, properties, tooling, tests/verification, CI, releases (task lists with difficulty markers).
 
 ## Features (Planned)
 - Custom lighting model (PBR)
