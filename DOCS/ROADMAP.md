@@ -19,12 +19,14 @@ Planning document for implementing the shader pack repository layout, `shaders.p
 
 Complete before treating later phases as “done.”
 
-- [ ] **E** Pin **Minecraft major** and document in [reference/README.md](reference/README.md) (or dedicated compatibility table).
-- [ ] **E** Choose primary **loader** (Iris, OptiFine, or both) and record rationale in [My_Thoughts.md](My_Thoughts.md).
+- [x] **E** Pin **Minecraft major** and document in [reference/README.md](reference/README.md) (or dedicated compatibility table).
+- [x] **E** Choose primary **loader** (Iris, OptiFine, or both) and record rationale in [My_Thoughts.md](My_Thoughts.md).
 - [ ] **M** Confirm **GLSL `#version`** and compatibility profile expected by that loader for the chosen MC version.
 - [ ] **M** Define **minimum viable hardware** (e.g. OpenGL version) for support expectations.
 
 ### Additions (targets)
+
+- [2026-03-26] Pinned **MC 26.1**, **Iris on Fabric**, sources in [TARGET_PLATFORM.md](TARGET_PLATFORM.md). **Remaining §0:** verify GLSL/Iris shader features (docs or in-game); define minimum GPU/OS when policy is set — see TARGET_PLATFORM open items.
 
 - 
 

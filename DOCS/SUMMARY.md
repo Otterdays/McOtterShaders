@@ -18,8 +18,10 @@
 - **Process:** [CHANGELOG.md](CHANGELOG.md), [SCRATCHPAD.md](SCRATCHPAD.md), [SBOM.md](SBOM.md), [My_Thoughts.md](My_Thoughts.md).
 - **Conventions:** [STYLE_GUIDE.md](STYLE_GUIDE.md).
 - **Planning:** [ROADMAP.md](ROADMAP.md) (skeleton, properties, tooling, verification, CI — task lists with difficulty).
+- **Pinned runtime:** [TARGET_PLATFORM.md](TARGET_PLATFORM.md) (MC 26.1, Iris/Fabric stack, source URLs).
 
 ## Quick Links
+- [Target platform](TARGET_PLATFORM.md)
 - [Roadmap](ROADMAP.md)
 - [Architecture](ARCHITECTURE.md)
 - [Style guide](STYLE_GUIDE.md)

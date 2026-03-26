@@ -11,16 +11,17 @@ This folder holds **ecosystem / domain** material: how OptiFine/Iris shaderpacks
 | **This pack’s G-buffer layout and pipeline intent** | [../ARCHITECTURE.md](../ARCHITECTURE.md) |
 | **Broad file/uniform reference (generic “advanced” pack)** | [advanced_shaderpack_reference.md](advanced_shaderpack_reference.md) |
 | **Decisions and rationale** | [../My_Thoughts.md](../My_Thoughts.md) |
+| **Pinned game + loader versions and source URLs** | [../TARGET_PLATFORM.md](../TARGET_PLATFORM.md) |
 
 ## Compatibility and scope
 
-Targets are **TBD** until the first MVP pack is pinned to a specific Minecraft major and loader build.
+[AMENDED 2026-03-26]: Primary **Minecraft 26.1** + **Iris on Fabric** for development and validation; exact versions and canonical URLs are in [../TARGET_PLATFORM.md](../TARGET_PLATFORM.md). OptiFine may be considered later; not the current pin.
 
 | Item | Target | Notes |
 |------|--------|--------|
-| Minecraft | TBD | Set when gameplay version is chosen |
-| Loader | Iris and/or OptiFine | Document which you test with |
-| GLSL profile | TBD (e.g. compatibility `#version 120`) | Match Iris/OF docs for that MC version |
+| Minecraft | **26.1** | Pinned for this project |
+| Shader loader | **Iris (Fabric)** primary | Version ID on Modrinth: see TARGET_PLATFORM |
+| GLSL profile | Verify for Iris 26.1 | Confirm `#version`/features via Iris docs or in-game compile (see TARGET_PLATFORM open items) |
 
 ### Upgrade checklist (when bumping MC or loader)
 

@@ -34,4 +34,5 @@ Use `// [TRACE: <file.md>]` for WHY or contract references; avoid restating obvi
 
 - [ARCHITECTURE.md](ARCHITECTURE.md) — G-buffer and stage intent for this pack.
 - [ROADMAP.md](ROADMAP.md) — skeleton, tooling, and verification phases (append-only planning).
+- [TARGET_PLATFORM.md](TARGET_PLATFORM.md) — pinned MC/loader versions and source URLs for validation.
 - [reference/README.md](reference/README.md) — generic OptiFine/Iris reference material.

@@ -12,6 +12,7 @@ A Minecraft shader pack built for modern rendering standards, focusing on high v
 - **[DOCS/ARCHITECTURE.md](DOCS/ARCHITECTURE.md)** — G-buffer layout and rendering stages for this pack.
 - **[DOCS/reference/README.md](DOCS/reference/README.md)** — index of generic OptiFine/Iris reference material (not the pack’s binding buffer contract).
 - **[DOCS/ROADMAP.md](DOCS/ROADMAP.md)** — phased plan: shader skeleton, properties, tooling, tests/verification, CI, releases (task lists with difficulty markers).
+- **[DOCS/TARGET_PLATFORM.md](DOCS/TARGET_PLATFORM.md)** — pinned **Minecraft 26.1** + **Iris on Fabric** and canonical source links (Fabric announcement, Modrinth Iris/Fabric API).
 
 ## Features (Planned)
 - Custom lighting model (PBR)

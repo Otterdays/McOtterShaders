@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+- `DOCS/TARGET_PLATFORM.md`: pinned **Minecraft 26.1** + **Iris** (`1.10.8+26.1-fabric`) + **Fabric API** (`0.144.3+26.1`) with canonical source URLs (Fabric announcement, Modrinth Iris/Fabric API); Sodium dependency and OpenGL/Vulkan notes; cross-links from `DOCS/reference/README.md`, `DOCS/SUMMARY.md`, `README.md`, `DOCS/My_Thoughts.md`, `DOCS/ROADMAP.md` §0, `DOCS/SBOM.md`.
 - `DOCS/ROADMAP.md`: phased roadmap (prerequisites, skeleton, properties, tooling, verification, CI, release, backlog) with **E/M/H/X** difficulty markers and placeholder subsections for additions; linked from `DOCS/SUMMARY.md`, `README.md`, and `DOCS/STYLE_GUIDE.md`.
 - Preservation-rule headers across `DOCS/` markdown files.
 - `DOCS/reference/README.md` (reference index, compatibility placeholders, links to project truth).
