@@ -1,3 +1,5 @@
+<!-- PRESERVATION RULE: Never delete or replace content. Append or annotate only. -->
+
 # Changelog
 All notable changes to this project will be documented in this file.
 
@@ -6,5 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+- Preservation-rule headers across `DOCS/` markdown files.
+- `DOCS/reference/README.md` (reference index, compatibility placeholders, links to project truth).
+- `DOCS/STYLE_GUIDE.md` (GLSL conventions, trace tags, pointers to ARCHITECTURE).
+- Documentation map in `DOCS/SUMMARY.md` and a Documentation section in root `README.md`.
+- Scope note in `DOCS/reference/advanced_shaderpack_reference.md` (illustrative lib APIs; link to ARCHITECTURE).
 - Project initialization with documentation structure and architecture definition.
 - Git repository initialization with standard .gitignore.
+
+### Changed
+- `DOCS/My_Thoughts.md`: amended `colortex3` description to match `DOCS/ARCHITECTURE.md` with dated note.
+- `DOCS/ARCHITECTURE.md`: clarified authoritative G-buffer spec and cross-link to My_Thoughts.

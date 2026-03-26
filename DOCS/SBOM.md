@@ -1,3 +1,5 @@
+<!-- PRESERVATION RULE: Never delete or replace content. Append or annotate only. -->
+
 | Package | Version | Date Added | Security Status | Notes |
 |---------|---------|------------|-----------------|-------|
 | Minecraft OptiFine/Iris | N/A | 2026-03-18 | ✅ Clean | Target rendering platform |

@@ -1,3 +1,5 @@
+<!-- PRESERVATION RULE: Never delete or replace content. Append or annotate only. -->
+
 # Project My Thoughts
 
 ## 2026-03-18 - Defining the Buffer Layout
@@ -13,7 +15,9 @@ We'll use a **Hybrid Packed** approach. We'll utilize the standard `colortex` bu
 - `colortex0`: Albedo + Alpha (SRGB)
 - `colortex1`: Normals (Encoded)
 - `colortex2`: Material Data (Roughness, Metalness, Emission, AO)
-- `colortex3`: Surface Data (Block ID, Light Level, Sky Light)
+- `colortex3`: Light/Aux — Block Light (R), Sky Light (G), Subsurface Scattering (B), Block ID (A)
+
+[AMENDED 2026-03-26]: Channel layout for `colortex3` was vague ("Block ID, Light Level, Sky Light"). **Authoritative packing** is defined in [ARCHITECTURE.md](ARCHITECTURE.md); use that table for implementation.
 
 This layout gives us enough flexibility for complex lighting while staying within the limits of most hardware.
 

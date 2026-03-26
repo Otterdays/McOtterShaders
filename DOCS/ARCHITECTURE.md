@@ -1,5 +1,9 @@
+<!-- PRESERVATION RULE: Never delete or replace content. Append or annotate only. -->
+
 ## G-Buffer Layout Definition
 To achieve physically based rendering, we must define exactly what information is stored in our color textures during the initial geometry pass.
+
+**Authoritative spec:** The table below is the binding layout for this pack. Decision history lives in [My_Thoughts.md](My_Thoughts.md).
 
 ### Buffer Allocations
 
