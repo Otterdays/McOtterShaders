@@ -1,0 +1,12 @@
+option.OUTLINE_THICKNESS=Outline Thickness
+option.OUTLINE_THICKNESS.comment=Screen-space width of contour lines.
+option.OUTLINE_INTENSITY=Outline Intensity
+option.OUTLINE_INTENSITY.comment=Darkness of contour lines.
+option.OUTLINE_DEPTH_SENS=Outline Depth Sensitivity
+option.OUTLINE_DEPTH_SENS.comment=How strongly depth breaks trigger edges.
+option.OUTLINE_NORMAL_SENS=Outline Normal Sensitivity
+option.OUTLINE_NORMAL_SENS.comment=How strongly normal changes trigger edges.
+option.SHADE_STEPS=Shade Steps
+option.SHADE_STEPS.comment=Number of toon bands in direct lighting.
+option.SHADE_STRENGTH=Shade Strength
+option.SHADE_STRENGTH.comment=Blend amount of toon quantization.

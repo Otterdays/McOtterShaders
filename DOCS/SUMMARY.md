@@ -4,6 +4,10 @@
 **Current Phase:** Inception/Architecture
 **Last Updated:** 2026-03-26
 
+[AMENDED 2026-05-06]: Borderlands-style shader skeleton and stylization v1 now exist under `shaders/`
+(`composite`, `final`, `lib/toon.glsl`, `lib/edge_detect.glsl`, shader options). Phase remains pre-MVP
+until in-game compile/smoke verification is completed on pinned runtime.
+
 ## Key Milestones
 - [x] Documentation structure initialization
 - [x] Git repository initialization
